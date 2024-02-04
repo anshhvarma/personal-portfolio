@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.5fefc781.css",
+    "main.js": "/personal-portfolio/static/js/main.873726c9.js",
+    "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/banner-bg.png": "/personal-portfolio/static/media/banner-bg.ad33add2430e34307c33.png",
+    "static/media/code.png": "/personal-portfolio/static/media/code.6ce6835e4d1b6a24a338.png",
+    "static/media/header-img.svg": "/personal-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/personal-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/contact-img.svg": "/personal-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/personal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/personal-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/personal-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon2.svg": "/personal-portfolio/static/media/nav-icon2.9ab36b085005b1dd01199309d799f58a.svg",
+    "index.html": "/personal-portfolio/index.html",
+    "static/media/threejs.svg": "/personal-portfolio/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
+    "static/media/nav-icon1.svg": "/personal-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon4.svg": "/personal-portfolio/static/media/nav-icon4.03cb37725d9dc7f54639cfa369e39500.svg",
+    "main.5fefc781.css.map": "/personal-portfolio/static/css/main.5fefc781.css.map",
+    "main.873726c9.js.map": "/personal-portfolio/static/js/main.873726c9.js.map",
+    "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fefc781.css",
+    "static/js/main.873726c9.js"
+  ]
+}
