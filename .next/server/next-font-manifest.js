@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/anshvarma/Desktop/anshhhh/src/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\",\"static/media/eafabf029ad39a43-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/anshvarma/Desktop/OnlyCodzzz/anshhhh/src/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\",\"static/media/eafabf029ad39a43-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
