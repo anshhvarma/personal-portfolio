@@ -35,31 +35,31 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github/anshhvarma",
+        url: "https://github.com/anshhvarma",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkdedin/anshhvarma",
+        url: "https://linkedin.com/in/anshhvarma",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "/",
+        url: "https://x.com/AnshhVarma",
         icon: Icons.x,
 
         navbar: true,
       },
-      Youtube: {
-        name: "Youtube",
-        url: "/",
-        icon: Icons.youtube,
-        navbar: true,
-      },
+      // Youtube: {
+      //   name: "Youtube",
+      //   url: "/",
+      //   icon: Icons.youtube,
+      //   navbar: true,
+      // },
       email: {
         name: "Send Email",
         url: "anshvarma83691@gmail.com",

@@ -21,17 +21,17 @@ import { Button } from "@/components/ui/button";
 
 export default function Page() {
   return (
-    <section className="md:flex md:flex-col md:items-center md:justify-center min-h-screen">
-  <div className="flex flex-1 mt-32 mb-32 items-center justify-center w-full">
+    <section className="md:flex md:flex-col md:items-center md:justify-center">
+  <div className="flex flex-1 mt-32 mb-4 items-center justify-center w-full">
     <p className="text-[4.5rem] md:text-[7.4rem] font-semibold leading-tight text-left selection:bg-yellow-200">
       Are you prepared to turn your idea into reality within weeks?
     </p>
   </div>
-  {/* <Link href="https://docs.google.com/document/d/1BHUvXBchDyGD6IYDeEELA6fu5bq1Ad1ukPDEa8yAD0M/edit?usp=sharing" target="_blank" >
-  <Button variant={"outline"} className="text-2xl ">
+  <Link  href="https://docs.google.com/document/d/1BHUvXBchDyGD6IYDeEELA6fu5bq1Ad1ukPDEa8yAD0M/edit?usp=sharing" target="_blank" >
+  <Button variant={"outline"} className="text-2xl h-15">
     RESUME
   </Button>
-  </Link> */}
+  </Link>
   <Hackathon />
   
 </section>
