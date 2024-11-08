@@ -27,7 +27,7 @@ export default function Page() {
       Are you prepared to turn your idea into reality within weeks?
     </p>
   </div>
-  <Link  href="https://docs.google.com/document/d/1BHUvXBchDyGD6IYDeEELA6fu5bq1Ad1ukPDEa8yAD0M/edit?usp=drive_link" target="_blank" >
+  <Link  href="https://drive.google.com/file/d/17y-uVYntpL2h3DBFdkOh4H5gyNJ_LWjx/view?usp=drive_link" target="_blank" >
   <Button variant={"outline"} className="text-2xl h-15">
     RESUME
   </Button>
